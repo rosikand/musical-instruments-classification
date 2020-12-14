@@ -21,6 +21,10 @@ The resultant directories that contain the Mel Spectrograms are saved in this re
 #### Neural network notebooks  
 In this repository, several convolutional neural networks are trained and tested. Specifically, the **VGG16**, **VGG19**, and **MobileNet** architectures are used. Each notebook name corresponds to the architecture used. In each of these notebooks, the model is built, trained, and tested. Furthermore, several predictions are displayed for each class. 
 
+
+#### Other notebooks 
+- `databook_generator.ipynb`: Used to generate the images and figures in `Data-Book.pdf`. 
+
 #### Books
-The long-form PDF books . 
-- `Data-Book.pdf`
+Long-form PDFs. 
+- `Data-Book.pdf`: Contains waveform plots and Mel Spectrograms for each audio file in the dataset. 
