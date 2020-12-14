@@ -20,3 +20,7 @@ The resultant directories that contain the Mel Spectrograms are saved in this re
 ### Repository file structure 
 #### Neural network notebooks  
 In this repository, several convolutional neural networks are trained and tested. Specifically, the **VGG16**, **VGG19**, and **MobileNet** architectures are used. Each notebook name corresponds to the architecture used. In each of these notebooks, the model is built, trained, and tested. Furthermore, several predictions are displayed for each class. 
+
+#### Books
+The long-form PDF books . 
+- `Data-Book.pdf`
