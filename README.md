@@ -13,5 +13,6 @@ The raw audio files, in the `.wav` format, were downloaded from [here](https://g
 3. Convert to Mel Spectrogram—resultant is an image.  
 4. Save resultant image to respective directory. 
 5. Repeat for all images. 
+6. Run an image classification model on the Mel Spectrogram images. 
 
 The resultant directories that contain the Mel Spectrograms are saved in this repository as well. 
