@@ -24,6 +24,7 @@ In this repository, several convolutional neural networks are trained and tested
 
 #### Other notebooks 
 - `databook_generator.ipynb`: Used to generate the images and figures in `Data-Book.pdf`. 
+- `generate_mels.ipynb`: In this notebook, the raw audio `.wav` files were transferred into Mel Spectrogram `.png` images. 
 
 #### Books
 Long-form PDFs. 
