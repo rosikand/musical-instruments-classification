@@ -1,4 +1,4 @@
-# Musical Instruments Audio Classification 
+🎵 # Musical Instruments Audio Classification 
 
 In this repository, I experiment with different machine learning algorithms to classify audio samples of musical instruments.
 
