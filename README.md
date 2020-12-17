@@ -1,4 +1,4 @@
-![alt text](https://drive.google.com/uc?export=download&id=15C0Alf8An0h__-gIBUNfgguKTROuuil6)
+![header image](https://drive.google.com/uc?export=download&id=15C0Alf8An0h__-gIBUNfgguKTROuuil6)
 
 In this repository, I experiment with different machine learning algorithms to classify audio samples of musical instruments.
 
